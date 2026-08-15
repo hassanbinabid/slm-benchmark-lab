@@ -1,0 +1,11 @@
+topic,temperature,attempt,status,difficulty,has_code_example,one_line_summary,explanation,error
+recursion,0.0,2,success,intermediate,False,A function that calls itself to solve smaller versions of a problem.,Recursion is when a function calls itself to solve a problem.,
+gradient descent,0.0,2,failed,,,,,"Response was not valid JSON: Expecting ',' delimiter: line 6 column 105 (char 336)"
+TCP/IP protocol,0.0,2,failed,,,,,"Response was not valid JSON: Expecting ',' delimiter: line 6 column 82 (char 284)"
+binary search,0.0,2,failed,,,,,"Response was not valid JSON: Expecting ',' delimiter: line 6 column 100 (char 350)"
+REST API,0.0,2,failed,,,,,"Response was not valid JSON: Expecting ',' delimiter: line 6 column 84 (char 326)"
+recursion,0.7,1,success,intermediate,False,A self-calling function solves smaller versions of the same problem.,Recursion is when a function calls itself to solve a problem. This can be used for tasks like tree traversals or factorial calculations.,
+gradient descent,0.7,2,success,advanced,True,Optimization algorithm that adjusts weights to minimize errors,Gradient Descent is an optimization algorithm used to minimize cost functions by iteratively adjusting weights to reduce errors.,
+TCP/IP protocol,0.7,1,success,advanced,False,A protocol suite for reliable internet communication.,"TCP/IP is a suite of communication protocols used to connect devices on the internet. It ensures reliable data transfer by dividing data into packets, assigning sequence numbers, and reassembling them at the receiving end.",
+binary search,0.7,2,success,intermediate,False,Finding an item in a sorted list by repeatedly dividing in half.,Binary search is a fast way to find an item in a sorted list by repeatedly dividing the list in half until the item is found.,
+REST API,0.7,2,success,intermediate,False,Resource-based interactions with HTTP methods,"A REST API is an architecture style for designing networked applications, focusing on resource-based interactions and using HTTP methods to manipulate resources.",

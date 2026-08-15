@@ -1,0 +1,11 @@
+index,prompt,ttft_ms,total_latency_s,output_tokens,tokens_per_second
+1,What is the capital of France?,8314.66,8.728,8,0.92
+2,Define recursion in one sentence.,3495.68,5.371,38,7.07
+3,Explain the difference between a list and a tuple in Python.,3596.72,22.154,357,16.11
+4,What is gradient descent in machine learning?,3300.17,33.758,578,17.12
+5,Write a Python function that checks if a number is prime.,3469.51,10.589,140,13.22
+6,Explain how TCP/IP works in plain English.,3299.15,36.014,615,17.08
+7,What are the main causes of the French Revolution?,3399.46,29.931,501,16.74
+8,Write a Python function that reverses a string.,3393.49,5.823,49,8.41
+9,Explain the CAP theorem in distributed systems.,3425.04,31.531,526,16.68
+10,What is the difference between SQL and NoSQL databases?,3441.63,30.023,506,16.85
